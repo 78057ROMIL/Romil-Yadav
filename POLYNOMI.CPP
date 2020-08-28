@@ -153,5 +153,6 @@ while(ch=='y' || ch=='Y');
 s2.display();
 cout<<"\n\n";
 s1.sum(s2);
+getch();  
 return 0;
 }
